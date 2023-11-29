@@ -40,7 +40,6 @@ params = {
     # GenParams.TOP_K: 100,
     # GenParams.TOP_P: 1,
     GenParams.REPETITION_PENALTY: 1
-    #GenParams.STOP_SEQUENCES: ["Pertanyaan"]
 }
 
 
