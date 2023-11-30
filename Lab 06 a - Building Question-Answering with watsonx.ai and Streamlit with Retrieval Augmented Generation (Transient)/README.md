@@ -4,6 +4,7 @@
 # 패키지 업데이트 [중요]
 1. cmd 창에서 pip uninstall ibm-watson-machine-learning을 입력하여 이전 버전 패키지를 삭제합니다
 2. 동일한 cmd 창에서 pip install ibm-watson-machine-learning chromadb을 입력하여 패키지를 설치 합니다.
+3. pip install googletrans==3.1.0a0 을 설치합니다.
 
 # 허깅페이스(HuggingFace) API Setup
 1. 아래 사이트에 로그인 하거나 가입하세요 https://huggingface.co/.
